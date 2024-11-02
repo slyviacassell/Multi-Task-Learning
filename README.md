@@ -117,6 +117,7 @@ And it's updating...
 - Deep Multi-task Representation Learning: A Tensor Factorisation Approach. *5th International Conference on Learning Representations, ICLR 2017 - Conference Track Proceedings*, may 2016. [Code](https://github.com/wOOL/DMTRL)
 - [AAAI 2019] Latent multi-task architecture learning. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/4410), [Code](https://github.com/sebastianruder/sluice-networks)
 - NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction. In *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pages 3200–3209. IEEE, jun 2019. [Code](https://github.com/ethanygao/NDDR-CNN)
+- UNITE: Multitask Learning With Sufficient Feature for Dense Prediction, IEEE Transactions on Systems, Man, and Cybernetics: Systems [paper](https://ieeexplore.ieee.org/document/10534190)
 
 <a name="mix"></a>
 
@@ -128,6 +129,7 @@ And it's updating...
 - Mti-net: Multi-scale task interaction networks for multi-task learning. In *ECCV*, 2020. [Code](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
 - Attentive Single-Tasking of Multiple Tasks. In *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pages 1851–1860. IEEE, jun 2019. [Code](https://github.com/facebookresearch/astmt)
 - Many Task Learning With Task Routing. In*2019IEEE/CVF International Conference on Computer Vision (ICCV)*, pages 1375–1384. IEEE, oct 2019.
+- [ICCV 2021] Exploring Relational Context for Multi-Task Dense Prediction [paper](https://arxiv.org/pdf/2104.13874) [Code](https://github.com/brdav/atrc)
 - [CVPR 2022] Task Adaptive Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2203.16708)
   - Differentiable task-specific parameters as perturbation of the base network.
 - [arXiv 2022] Cross-task Attention Mechanism for Dense Multi-task Learning. [paper](https://arxiv.org/abs/2206.08927)
