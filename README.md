@@ -3,6 +3,13 @@
 
 And it's updating...
 
+- [MM 2024] Task-Conditional Adapter for Multi-Task Dense Prediction [paper](https://openreview.net/forum?id=hj5BoxFpLs&noteId=hj5BoxFpLs)
+- [CVPR 2024] Exploiting Diffusion Prior for Generalizable Dense Prediction
+- [CVPR 2024] Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models
+- [] Prompt Guided Transformer for Multi-Task Dense Prediction [paper](https://arxiv.org/abs/2307.15362)
+- Multi-Task Learning With Multi-Query Transformer for Dense Prediction, IEEE Transactions on Circuits and Systems for Video Technology [paper](https://ieeexplore.ieee.org/document/10176116)
+- Contrastive Multi-Task Dense Prediction [paper](https://arxiv.org/abs/2307.07934)
+- Multi-Level Contrastive Learning for Dense Prediction Task [paper](https://arxiv.org/abs/2304.02010)
 ------
 ## Table of Contents:
 - [Papers](#papers) 
